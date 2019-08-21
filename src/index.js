@@ -19,6 +19,7 @@ function App() {
         <option value="">--Select Name--</option>
         <option value="salehe">Salehe</option>
         <option value="Mwanga">Mwanga</option>
+        <option value="Hamimu">Hamimu</option>
       </select>
     </div>
   );
